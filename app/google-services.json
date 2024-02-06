@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111644323301",
+    "project_id": "soundmagicxapp",
+    "storage_bucket": "soundmagicxapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111644323301:android:89ce5abbc00f419a6b930c",
+        "android_client_info": {
+          "package_name": "com.pal.soundmagicxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE8_hyZHKUIB9i_XAzWziS-pk_WXZX9MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
